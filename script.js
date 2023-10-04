@@ -25,7 +25,6 @@ const textToSpeech = () => {
     synth.speak(utterance);
   }
 
-  // Rest of your code remains unchanged
 };
 
 // Ensure the voices are loaded before using them
